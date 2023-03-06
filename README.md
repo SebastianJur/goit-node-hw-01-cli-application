@@ -3,11 +3,18 @@
 ## Screenshots:
 
 
-1. [--action list](https://pages.github.com/)
+1. node index.js --action list
 
+![This is an image](https://raw.githubusercontent.com/SebastianJur/goit-node-hw-01-cli-application/main/screenshots/1-action-list.png)
 
-### node index.js --action get --id 5
+2. node index.js --action get --id 5
 
-### node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22
+![This is an image](https://github.com/SebastianJur/goit-node-hw-01-cli-application/blob/main/screenshots/2-action-get.png?raw=true)
 
-### node index.js --action remove --id 3
+3. node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22
+
+![This is an image](https://github.com/SebastianJur/goit-node-hw-01-cli-application/blob/main/screenshots/3-action-add.png?raw=true)
+
+4. node index.js --action remove --id 3
+
+![This is an image](https://github.com/SebastianJur/goit-node-hw-01-cli-application/blob/main/screenshots/4-action-remove.png?raw=true)
